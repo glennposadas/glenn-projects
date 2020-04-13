@@ -57,3 +57,6 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Role:** Pioneered and engineered from scratch.
 **Description:** beepbeep.ph is the first Online Platform, Gateway, & Destination for Your Car Needs.
 **Link:** https://apple.co/2y9IX9C
+
+---
+### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
