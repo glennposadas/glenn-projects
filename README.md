@@ -18,6 +18,8 @@ My resume, profiles, and contact details can be found on my website https://www.
 **Description:** 4.7 ratings, top 2 in Food categories in PH Market, 99-100% crash free users. 
 The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far, every day.
 
+**Company:** LalaFood
+
 **Link:** https://apple.co/2KcQesI
 
 ## 2. LalaFood Driver App
@@ -34,6 +36,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Description:** The deprecated driver iOS app of LalaFood. 
 
+**Company:** LalaFood
+
 **Link**: https://apple.co/2V2l6BI
 
 ## 3. LalaFood Partners App
@@ -49,6 +53,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Role:** Pioneered and engineered from scratch.
 
 **Description:** The deprecated restaurants and partners iOS app of LalaFood. 
+
+**Company:** LalaFood
 
 **Link:** https://apple.co/34uFEpB
 
@@ -83,6 +89,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Description:** beepbeep.ph is the first Online Platform, Gateway, & Destination for Your Car Needs.
 
+**Company:** Thirty One Digital Media Solutions
+
 **Link:** https://apple.co/2y9IX9C
 
 ## 6. Bible Color By Number Game
@@ -98,6 +106,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Role:** Started from scratch. Executed research and development of the game together with the other 2 remote iOS Engineers.
 
 **Description:** Bible Coloring and Bible Color by Number - Bible Paint By Number Game is a great Bible coloring book for all. Bible paint by number has Bible pictures, Jesus pictures and others.
+
+**Company:** WatchDis App Studio
 
 **Link:** https://apple.co/2Rv57d6
 
@@ -131,6 +141,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Description:** UPlant was created in order to let retail customers browse and purchase different species of plants, trees, palms, and flowers in the US marketplace with free delivery to their home or job site.
 
+**Company:** Macdonald Landscape Co.
+
 **Link:** http://apple.co/2h9JR8Z
 
 ## 9. UPlant Partners
@@ -147,6 +159,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Description:** Uplant Partner app was made for the partners of the Uplant LLC company. This is dedicated for the drivers and consultants of Uplant for Uplant beloved clients.
 
+**Company:** Macdonald Landscape Co.
+
 **Link:** https://apple.co/3a3GBGr
 
 ## 10. Aide
@@ -162,6 +176,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Role:** Started from scratch. Worked on its first version only.
 
 **Description:** Exclusive mobile app for certified and verified AIDE medical partners and the first ever E-clinic in the country that allows it's medical partners to
+
+**Company:** ThinkBit Solutions.
 
 **Link:** http://apple.co/2mZ9Aq9
 
@@ -180,6 +196,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Description:** Rent and Inquire radios and radio solutions from Radio1Inc - a Motorola Solutions Channel Partners in the United States.
 
+**Company:** Macdonald Landscape Co.
+
 **Link:** https://apple.co/34Bp1Zs
 
 ## 12. MMT Vessels
@@ -194,6 +212,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Role:** As a contractor/freelancer, I maintain the code quality, improve both codes and functionalities, add new features, and fix crashes and bugs.
 
 **Description:** MMT Vessels displays near real-time positions for MMTs vessels. The survey areas or the survey routes for the selected projects can also be displayed.
+
+**Company:** MMT
 
 **Link:** https://apple.co/3b0Cts5
 
@@ -213,6 +233,10 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 Audio Bible with many languages that can be downloaded for your smartphone. Technology has made it possible to have the Bible on your phone.
 
+**Company:** WatchDis App Studio
+
 **Link:** https://apple.co/3c9RB6s
+
+## 14.
 
 ### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
