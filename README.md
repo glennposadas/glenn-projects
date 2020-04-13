@@ -330,8 +330,51 @@ King James Bible -Audio KJV, King James version is a Bible that can be used with
 
 **Link:** https://apple.co/34wMPNX
 
+---
+
+## 18. FindersKeepers
+
+![FindersKeepers](https://i.imgur.com/blSZMBq.png)
+
+**Programming Language:** Objective-C
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Photos Framework, NSLayoutConstraints for programmatically built UI, Core Data.
+
+**Role:** Gave support to the senior engineers in its first months of development, and later on did the maintenance.
+
+**Description:**  The very first production project I had. Finders Keepers is a searchable photo and video app available for iPhone and iPad.
+
+**Company:** AppVenture, Inc.
+
+**Link:** http://apple.co/2gh7Ykl
 
 ---
-## 18.
+## 19.  Globe Event Guide Book
+
+![Globe Events Guidebook App](https://i.imgur.com/NAD3qf8.png)
+
+**Programming Language:** Objective-C
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, NSLayoutConstraints for programmatically built UI, Core Data.
+
+**Role:** Engineered the front-end from scratch.
+
+**Description:**  Released in 2016. A guidebook app to help globe subscribers to locate and search new events and experience full blast activities.
+
+This app aims to help the users in experiencing booth activities virtually, fast, and hassle-free.
+
+**Company:** AppVenture, Inc.
+
+**Link:** Removed from the App Store.
+
+
+---
+
+---
+## 20.
 
 ### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
