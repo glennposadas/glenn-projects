@@ -95,9 +95,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Stacks:** UIKit, Storyboards, SVG
 
-**Role:** Started from scratch. Executed research and development of the game together with
-
-the other 2 remote iOS Engineers.
+**Role:** Started from scratch. Executed research and development of the game together with the other 2 remote iOS Engineers.
 
 **Description:** Bible Coloring and Bible Color by Number - Bible Paint By Number Game is a great Bible coloring book for all. Bible paint by number has Bible pictures, Jesus pictures and others.
 
@@ -199,6 +197,22 @@ the other 2 remote iOS Engineers.
 
 **Link:** https://apple.co/3b0Cts5
 
+## 13. Audio Bible
 
----
+![Audio bible](https://i.imgur.com/LOKJw7X.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Programmatically built UI using NSLayoutAnchor, SQLite, FreeStreamer for audio streaming.
+
+**Role:** Continuous development and maintainance.
+
+**Description:** This is one of the multiple Bible Apps I've worked on under WatchDis App Sudio (a Netherlands based company).
+
+Audio Bible with many languages that can be downloaded for your smartphone. Technology has made it possible to have the Bible on your phone.
+
+**Link:** https://apple.co/3c9RB6s
+
 ### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
