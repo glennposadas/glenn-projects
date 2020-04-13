@@ -1,6 +1,7 @@
 # Glenn Posadas iOS Projects
 
 The following are the projects that I have handled before. I made this md for employment.
+
 My resume, profiles, and contact details can be found on my website https://www.glennvon.com/.
 
 ## 1. LalaFood User App
@@ -22,6 +23,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/2KcQesI
 
+---
 ## 2. LalaFood Driver App
 
 ![LalaFood iOS Driver App](https://i.imgur.com/XkAyxuO.png)
@@ -40,6 +42,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link**: https://apple.co/2V2l6BI
 
+---
 ## 3. LalaFood Partners App
 
 ![LalaFood iOS Restaurant Partners App](https://i.imgur.com/WJrthI7.png)
@@ -58,6 +61,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/34uFEpB
 
+---
 ## 4. Cham
 
 ![Cham](https://i.imgur.com/zvjW5zJ.png)
@@ -74,7 +78,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/2ye4hec
 
-
+---
 ## 5. Beepbeep ph
 
 ![Beepbeep.ph](https://i.imgur.com/CafoK5g.png)
@@ -93,6 +97,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/2y9IX9C
 
+---
 ## 6. Bible Color By Number Game
 
 ![Bible color game](https://i.imgur.com/zJ7ywBd.png)
@@ -111,6 +116,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/2Rv57d6
 
+---
 ## 7. CatLitter
 
 ![CatLitter](https://i.imgur.com/aQj2zi2.png)
@@ -127,6 +133,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/3b6kK2w
 
+---
 ## 8. UPlant
 
 ![UPlant](https://i.imgur.com/QZR8Evm.png)
@@ -145,6 +152,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** http://apple.co/2h9JR8Z
 
+---
 ## 9. UPlant Partners
 
 ![UPlant Partners](https://i.imgur.com/u9OlvLf.png)
@@ -163,6 +171,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/3a3GBGr
 
+---
 ## 10. Aide
 
 ![Aide](https://i.imgur.com/wtE9C7c.png)
@@ -181,7 +190,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** http://apple.co/2mZ9Aq9
 
-
+---
 ## 11. Radio One
 
 ![Radio One](https://i.imgur.com/aixrcfs.png)
@@ -200,6 +209,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/34Bp1Zs
 
+---
 ## 12. MMT Vessels
 ![MMT Vessels](https://i.imgur.com/NcYLAoM.png)
 
@@ -217,6 +227,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Link:** https://apple.co/3b0Cts5
 
+---
 ## 13. Audio Bible
 
 ![Audio bible](https://i.imgur.com/LOKJw7X.png)
@@ -227,9 +238,9 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 
 **Stacks:** UIKit, Programmatically built UI using NSLayoutAnchor, SQLite, FreeStreamer for audio streaming.
 
-**Role:** Continuous development and maintainance.
+**Role:** Continuous development and maintenance.
 
-**Description:** This is one of the multiple Bible Apps I've worked on under WatchDis App Sudio (a Netherlands based company).
+**Description:** This is one of the multiple Bible Apps I've worked on under WatchDis App Studio (a Netherlands based company).
 
 Audio Bible with many languages that can be downloaded for your smartphone. Technology has made it possible to have the Bible on your phone.
 
@@ -237,6 +248,90 @@ Audio Bible with many languages that can be downloaded for your smartphone. Tech
 
 **Link:** https://apple.co/3c9RB6s
 
-## 14.
+---
+
+## 14. KJV Bible Offline
+
+![KJV Bible Offline](https://i.imgur.com/C737acz.png)
+
+
+**Programming Language:** Swift
+
+**Architecture:** Objective-C
+
+**Stacks:** UIKit, Storyboards SQLite, FreeStreamer for audio streaming.
+
+**Role:** Continuous development and maintenance.
+
+**Description:** This is one of the multiple Bible Apps I've worked on under WatchDis App Studio (a Netherlands based company).
+
+King James Bible -Audio KJV, King James version is a Bible that can be used without internet and for media/ audio requires internet. KJV Bible app available on iTunes store is completely offline, with new and simple to use design, iMessage
+
+**Company:** WatchDis App Studio
+
+**Link:** https://apple.co/2ybltki
+
+---
+
+## 15. MusiFlik
+![MusiFlik](https://i.imgur.com/IpYcara.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards, Youtube Engine, Soundcloud API, Firebase
+
+**Role:** Engineered from scratch.
+
+**Description:** Musiflik is the fun, free way to discover and share music by new artists or your favourite performers.
+
+**Company:** ThinkBit Media Solutions
+
+**Link:** Removed from the App Store.
+
+---
+
+## 16. Finnman Chat
+
+![FinnmanChat](https://i.imgur.com/C80Srix.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Stevia for programmatically layout, Firebase.
+
+**Role:** UI developer.
+
+**Description:** Finnman is the social networking app that allows you to define yourself using video’s and discover people all over the world, bringing you their video’ for you to enjoy.
+
+**Company:** LavaX
+
+**Link:** Removed from the App Store.
+
+---
+
+## 17. The BeApp
+
+![TheBeApp](https://i.imgur.com/qr2H8X1.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards, Firebase
+
+**Role:** Gave support and maintenance for its some releases.
+
+**Description:**  Local or tourist? It doesn’t matter. With so many sights, activities and stories, there is something for everybody. Plenty of travel guides have a difficult time conveying that a city is never just the sum of its best sights, that’s why the Be app celebrates the diversity of neighbourhoods instead.
+
+**Company:** Thirty One Digital Media Solutions
+
+**Link:** https://apple.co/34wMPNX
+
+
+---
+## 18.
 
 ### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
