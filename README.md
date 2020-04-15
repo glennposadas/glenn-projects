@@ -393,6 +393,24 @@ This app aims to help the users in experiencing booth activities virtually, fast
 **Link:** Removed from the App Store.
 
 ---
-## 21.
+## 21. Findwork
+
+![Findwork](https://i.imgur.com/emlVD8a.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Pioneered and engineered from scratch (first version only).
+
+**Description:**  FindWork is a job search app that connects companies to job seekers in Southeast. We help job seekers find work that best suits their skills, and help companies hire the right people to help their businesses flourish.
+
+**Company:** Thirty One Digital Media Solutions
+
+**Link:** Removed from the App Store.
+---
+## 22.
 
 ### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
