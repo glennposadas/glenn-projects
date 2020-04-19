@@ -1,3 +1,4 @@
+
 # Glenn Posadas iOS Projects
 
 The following are the projects that I have handled before. I made this md for employment.
@@ -410,7 +411,68 @@ This app aims to help the users in experiencing booth activities virtually, fast
 **Company:** Thirty One Digital Media Solutions
 
 **Link:** Removed from the App Store.
+
 ---
-## 22.
+## 22. Geo Drive
+
+![GeoDrive](https://i.imgur.com/HLGmWE5.jpg)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Started from scratch.
+
+**Description:**  A navigation app running in the background at the given range of company hours, utilizing Geofencing.
+
+**Company:** FourPointZero
+
+**Link:** Removed from the App Store.
+
+---
+## 23. Synapps-PH
+
+![Synapps-ph](https://i.imgur.com/j5aysMU.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Gave support, post-release, fixed bugs and whatnot.
+
+**Description:**  Synapps Medical is an app for medical representatives for data gathering.
+
+**Company:** ThinkBit Solutions.
+
+**Link:** Removed from the App Store.
+
+----
+
+## 24. San Mig Light Bar Tour
+
+![Sanmiglight](https://i.imgur.com/ojnRP9b.jpg)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, SnapKit
+
+**Role:** Started from scratch, including the backend server.
+
+**Description:**  San Mig Light Bar Tour is an iPad app made for the bar tour events of San Miguel Corp to promote San Mig Light beer. It is used for data gathering of the people who participated in the said events.
+
+**Company:** Thirty One Digital Media Solutions
+
+**Link:** Removed from the App Store.
+
+
+
+---
+## 30.
 
 ### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
