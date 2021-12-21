@@ -1,11 +1,11 @@
 
-# Glenn Posadas iOS Projects
+# Glenn Posadas - Projects
 
 The following are the projects that I have handled before. I made this md for employment.
 
 My resume, profiles, and contact details can be found on my website https://www.glennvon.com/.
 
-## 1. LalaFood User App
+## LalaFood User App
 
 ![LalaFood iOS User App](https://i.imgur.com/6911zr1.png)
 
@@ -25,7 +25,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/2KcQesI
 
 ---
-## 2. LalaFood Driver App
+## LalaFood Driver App
 
 ![LalaFood iOS Driver App](https://i.imgur.com/XkAyxuO.png)
 
@@ -44,7 +44,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link**: https://apple.co/2V2l6BI
 
 ---
-## 3. LalaFood Partners App
+## LalaFood Partners App
 
 ![LalaFood iOS Restaurant Partners App](https://i.imgur.com/WJrthI7.png)
 
@@ -63,7 +63,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/34uFEpB
 
 ---
-## 4. Cham
+## Cham
 
 ![Cham](https://i.imgur.com/zvjW5zJ.png)
 
@@ -80,7 +80,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/2ye4hec
 
 ---
-## 5. Beepbeep ph
+## Beepbeep ph
 
 ![Beepbeep.ph](https://i.imgur.com/CafoK5g.png)
 
@@ -99,7 +99,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/2y9IX9C
 
 ---
-## 6. Bible Color By Number Game
+## Bible Color By Number Game
 
 ![Bible color game](https://i.imgur.com/zJ7ywBd.png)
 
@@ -118,7 +118,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/2Rv57d6
 
 ---
-## 7. CatLitter
+## CatLitter
 
 ![CatLitter](https://i.imgur.com/aQj2zi2.png)
 
@@ -135,7 +135,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/3b6kK2w
 
 ---
-## 8. UPlant
+## UPlant
 
 ![UPlant](https://i.imgur.com/QZR8Evm.png)
 
@@ -154,7 +154,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** http://apple.co/2h9JR8Z
 
 ---
-## 9. UPlant Partners
+## UPlant Partners
 
 ![UPlant Partners](https://i.imgur.com/u9OlvLf.png)
 
@@ -173,7 +173,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/3a3GBGr
 
 ---
-## 10. Aide
+## Aide
 
 ![Aide](https://i.imgur.com/wtE9C7c.png)
 
@@ -192,7 +192,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** http://apple.co/2mZ9Aq9
 
 ---
-## 11. Radio One
+## Radio One
 
 ![Radio One](https://i.imgur.com/aixrcfs.png)
 
@@ -211,7 +211,8 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/34Bp1Zs
 
 ---
-## 12. MMT Vessels
+## 
+Vessels
 ![MMT Vessels](https://i.imgur.com/NcYLAoM.png)
 
 **Programming Language:** Swift
@@ -229,7 +230,7 @@ The iOS user app of LalaFood, used by thousands of users in Metro Manila, so far
 **Link:** https://apple.co/3b0Cts5
 
 ---
-## 13. Audio Bible
+## Audio Bible
 
 ![Audio bible](https://i.imgur.com/LOKJw7X.png)
 
@@ -251,7 +252,7 @@ Audio Bible with many languages that can be downloaded for your smartphone. Tech
 
 ---
 
-## 14. KJV Bible Offline
+## KJV Bible Offline
 
 ![KJV Bible Offline](https://i.imgur.com/C737acz.png)
 
@@ -274,7 +275,7 @@ King James Bible -Audio KJV, King James version is a Bible that can be used with
 
 ---
 
-## 15. MusiFlik
+## MusiFlik
 ![MusiFlik](https://i.imgur.com/IpYcara.png)
 
 **Programming Language:** Swift
@@ -293,7 +294,7 @@ King James Bible -Audio KJV, King James version is a Bible that can be used with
 
 ---
 
-## 16. Finnman Chat
+## Finnman Chat
 
 ![FinnmanChat](https://i.imgur.com/C80Srix.png)
 
@@ -313,7 +314,7 @@ King James Bible -Audio KJV, King James version is a Bible that can be used with
 
 ---
 
-## 17. The BeApp
+## The BeApp
 
 ![TheBeApp](https://i.imgur.com/qr2H8X1.png)
 
@@ -333,7 +334,7 @@ King James Bible -Audio KJV, King James version is a Bible that can be used with
 
 ---
 
-## 18. FindersKeepers
+## FindersKeepers
 
 ![FindersKeepers](https://i.imgur.com/blSZMBq.png)
 
@@ -352,7 +353,7 @@ King James Bible -Audio KJV, King James version is a Bible that can be used with
 **Link:** http://apple.co/2gh7Ykl
 
 ---
-## 19.  Globe Event Guide Book
+## Globe Event Guide Book
 
 ![Globe Events Guidebook App](https://i.imgur.com/NAD3qf8.png)
 
@@ -375,7 +376,7 @@ This app aims to help the users in experiencing booth activities virtually, fast
 
 ---
 
-## 20. MobileMed
+## MobileMed
 
 ![MobileMed](https://i.imgur.com/V9vNX1d.png)
 
@@ -394,7 +395,7 @@ This app aims to help the users in experiencing booth activities virtually, fast
 **Link:** Removed from the App Store.
 
 ---
-## 21. Findwork
+## Findwork
 
 ![Findwork](https://i.imgur.com/emlVD8a.png)
 
@@ -413,7 +414,7 @@ This app aims to help the users in experiencing booth activities virtually, fast
 **Link:** Removed from the App Store.
 
 ---
-## 22. Geo Drive
+## Geo Drive
 
 ![GeoDrive](https://i.imgur.com/HLGmWE5.jpg)
 
@@ -432,7 +433,7 @@ This app aims to help the users in experiencing booth activities virtually, fast
 **Link:** Removed from the App Store.
 
 ---
-## 23. Synapps-PH
+## Synapps-PH
 
 ![Synapps-ph](https://i.imgur.com/j5aysMU.png)
 
@@ -452,7 +453,7 @@ This app aims to help the users in experiencing booth activities virtually, fast
 
 ----
 
-## 24. San Mig Light Bar Tour
+## San Mig Light Bar Tour
 
 ![Sanmiglight](https://i.imgur.com/ojnRP9b.jpg)
 
@@ -471,8 +472,11 @@ This app aims to help the users in experiencing booth activities virtually, fast
 **Link:** Removed from the App Store.
 
 
+---
+## KJV Bible Offline - Audio KJV (https://goo.gl/gtuUgM)
 
 ---
-## 30.
+## Audio Bible - Dramatized Audio (https://goo.gl/kAUzcF)
 
-### Complete List: [https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d](https://gist.github.com/glennposadas/553920ee54809b1b0a5c9d4722b4492d)
+---
+## Led Hit - http://apple.co/2gioVQs
