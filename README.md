@@ -5,6 +5,41 @@ The following are the projects that I have handled before. I made this md for em
 
 My resume, profiles, and contact details can be found on my website https://www.glennvon.com/.
 
+## FotoNotes Enterprise 
+
+![FotoNotes Enterprise](https://user-images.githubusercontent.com/12502679/146935472-0454dc2d-69a7-43d8-9aac-ad96139b6643.png)
+
+**Programming Language:** Objective-C & Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Principal iOS Engineer
+
+**Company:** Outliant
+
+**Link:** https://apps.apple.com/us/app/fotonotes-enterprise/id559631160
+
+---
+## Rootd
+
+![Rootd1](https://user-images.githubusercontent.com/12502679/146939920-0f4eceaa-1799-4608-b03a-be951bdbaa8f.png)
+![Rootd2](https://user-images.githubusercontent.com/12502679/146939937-8b138ada-be16-4348-8026-6edfe37e4778.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** WatchKit, SwiftUI, Storyboards
+
+**Role:** Contractor for the new updates
+
+**Company:** Rootd
+
+**Link:** https://apps.apple.com/ph/app/rootd-watch-app/id1481958177
+
+---
 ## LalaFood User App
 
 ![LalaFood iOS User App](https://i.imgur.com/6911zr1.png)
