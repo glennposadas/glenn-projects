@@ -5,23 +5,6 @@ The following are the projects that I have handled before. I made this md for em
 
 My resume, profiles, and contact details can be found on my website https://www.glennvon.com/.
 
-## Chaos
-
-![Chaos](https://user-images.githubusercontent.com/12502679/146942537-851a64c9-2c06-4faa-92d4-c7b3ac9dc0c3.png)
-
-**Programming Language:** Swift
-
-**Architecture:** MVVM-Coordinator
-
-**Stacks:** UIKit, Combine, SnapKit
-
-**Role:** Lead iOS Engineer
-
-**Company:** Outliant + Chaos Intelligence
-
-**Link:** https://www.trychaos.ai (Private Beta)
-
----
 ## FotoNotes Enterprise 
 
 ![FotoNotes Enterprise](https://user-images.githubusercontent.com/12502679/146935472-0454dc2d-69a7-43d8-9aac-ad96139b6643.png)
@@ -37,6 +20,41 @@ My resume, profiles, and contact details can be found on my website https://www.
 **Company:** Outliant + FotoBabble
 
 **Link:** https://apps.apple.com/us/app/fotonotes-enterprise/id559631160
+
+---
+
+![New Globe One](https://user-images.githubusercontent.com/12502679/197473451-752b74ce-df41-4785-ad0a-ea71208e2514.png)
+
+**Programming Language:** Swift
+
+**Architecture:** Clean Swift | Viper
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Contractor | Remote iOS Engineer
+
+**Company:** ProjectGrey + Novare + Globe
+
+**Link:** https://apps.apple.com/ph/app/new-globeone/id1555659963
+
+---
+
+## Chaos
+
+![Chaos](https://user-images.githubusercontent.com/12502679/197473305-7c95e5f1-7517-49db-b117-6b084baa8954.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM-Coordinator
+
+**Stacks:** UIKit, Combine, SnapKit
+
+**Role:** Lead iOS Engineer
+
+**Company:** Outliant + Chaos Intelligence
+
+**Link:** https://apps.apple.com/us/app/chaos-activate-your-ideas/id1570900615
+
 
 ---
 ## Rootd
