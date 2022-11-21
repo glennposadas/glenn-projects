@@ -23,6 +23,8 @@ My resume, profiles, and contact details can be found on my website https://www.
 
 ---
 
+## New Globe One
+
 ![New Globe One](https://user-images.githubusercontent.com/12502679/197473451-752b74ce-df41-4785-ad0a-ea71208e2514.png)
 
 **Programming Language:** Swift
