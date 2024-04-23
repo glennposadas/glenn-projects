@@ -43,7 +43,7 @@ My resume, profiles, and contact details can be found on my website https://www.
 
 ## Aloe Bud
 
-<img width="1007" alt="Screenshot 2024-04-23 at 10 45 36 AM" src="https://github.com/glennposadas/glenn-projects/assets/12502679/c9282e0f-cf74-49e8-8f04-35b55fa50bc4">
+<img width="1117" alt="Screenshot 2024-04-23 at 10 50 16 AM" src="https://github.com/glennposadas/glenn-projects/assets/12502679/aef7a8a0-c061-46e5-90fa-58795d95a87b">
 
 **Programming Language:** Swift
 
