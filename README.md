@@ -5,21 +5,21 @@ The following are the projects that I have handled before. I made this md for em
 
 My resume, profiles, and contact details can be found on my website https://www.glennvon.com/.
 
-## FotoNotes Enterprise 
+## SiteCapture 
 
-![FotoNotes Enterprise](https://user-images.githubusercontent.com/12502679/146935472-0454dc2d-69a7-43d8-9aac-ad96139b6643.png)
+![SiteCapture]([https://user-images.githubusercontent.com/12502679/146935472-0454dc2d-69a7-43d8-9aac-ad96139b6643.png](https://github.com/glennposadas/glenn-projects/assets/12502679/3b197118-ab33-49a2-945e-06dda1373061))
 
 **Programming Language:** Objective-C & Swift
 
 **Architecture:** MVC
 
-**Stacks:** UIKit, Storyboards
+**Stacks:** UIKit, AVFoundation, Bitrise
 
 **Role:** Principal iOS Engineer
 
-**Company:** Outliant + FotoBabble
+**Company:** SiteCapture
 
-**Link:** https://apps.apple.com/us/app/fotonotes-enterprise/id559631160
+**Link:** [https://apps.apple.com/us/app/fotonotes-enterprise/id559631160](https://apps.apple.com/us/app/sitecapture-mobile/id919666396)
 
 ---
 
