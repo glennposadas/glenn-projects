@@ -11,15 +11,33 @@ My resume, profiles, and contact details can be found on my website https://www.
 
 **Programming Language:** Objective-C & Swift
 
-**Architecture:** MVC
+**Architecture:** MVVM
 
-**Stacks:** UIKit, AVFoundation, Bitrise
+**Stacks:** UIKit, SwiftUI, Core Data, AVFoundation, Bitrise
 
 **Role:** Principal iOS Engineer
 
 **Company:** SiteCapture
 
 **Link:** [https://apps.apple.com/us/app/fotonotes-enterprise/id559631160](https://apps.apple.com/us/app/sitecapture-mobile/id919666396)
+
+---
+
+## ISM
+
+<img width="887" alt="Screenshot 2024-04-23 at 10 43 43 AM" src="https://github.com/user-attachments/assets/fbb790fd-7802-4858-a5e7-c651e7b55713">
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM
+
+**Stacks:** UIKit, SwiftUI, MetalKit, Realm, RxSwift, Bitrise
+
+**Role:** Freelancer
+
+**Company:** ISM
+
+**Link:** [https://apps.apple.com/us/app/digital-camera-filter-ism/id1580668065]([https://apps.apple.com/us/app/sitecapture-mobile/id919666396](https://apps.apple.com/us/app/digital-camera-filter-ism/id1580668065))
 
 ---
 
